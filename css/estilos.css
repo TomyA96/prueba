@@ -1,0 +1,22 @@
+/*Pagina 1*/
+
+.celeste{
+    background-color: aqua;
+    margin: auto;
+    padding: 99px;
+    border-style: solid ;
+    
+}
+
+.blanco {
+    background-color: whitesmoke;
+    margin: auto;
+    text-align: center;
+    border-style: none solid none solid;
+}
+
+img{
+  
+    width: 200px;
+}
+
